@@ -1,0 +1,3 @@
+= BlogOnRails
+
+Build a Blog app with rails
